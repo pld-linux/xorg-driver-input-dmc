@@ -1,5 +1,5 @@
 Summary:	X.org input driver for DMC FIT10 controller
-Summary(pl.UTF-8):   Sterownik wejściowy X.org dla kontrolera DMC FIT10
+Summary(pl.UTF-8):	Sterownik wejściowy X.org dla kontrolera DMC FIT10
 Name:		xorg-driver-input-dmc
 Version:	1.1.0
 Release:	0.1

@@ -1,12 +1,12 @@
 Summary:	X.org input driver for DMC FIT10 controller
 Summary(pl.UTF-8):	Sterownik wejściowy X.org dla kontrolera DMC FIT10
 Name:		xorg-driver-input-dmc
-Version:	1.1.1
+Version:	1.1.2
 Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-input-dmc-%{version}.tar.bz2
-# Source0-md5:	f21f008220bc7687ce1c34ab557ec32f
+# Source0-md5:	91021ea8f3593221c0d9ee9cc14deb48
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
